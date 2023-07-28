@@ -1,0 +1,5 @@
+Cryptography is a method of protecting information from unauthorized parties by changing it into a non-readable form. It is used to achieve security in three categories: confidentiality, integrity, and availability. Data cryptography is encoding the content material of information to make it no longer understandable, meaningless, and invisible. To encrypt records on cloud storage, symmetric and asymmetric keys may be used.
+
+The Advanced Encryption Standard (AES) is a symmetric block cipher used widely for security in the cloud. It is used with a key length of 128-bits and is used to encrypt data uploaded to the cloud. The encryption solution is transparent to the application and can be integrated quickly and easily without any changes to the application. The key is never stored next to the encrypted data, and a physical key management server can be installed in the user's premises to store the keys. This encryption protects data and keys and guarantees that they remain under the user's control and will never be exposed in storage or in transit.
+
+https://www.researchgate.net/publication/340272287_Security_in_Cloud_Computing_using_AES_DES
